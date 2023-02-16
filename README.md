@@ -3,6 +3,7 @@ raz is the owner
 ##Introduction
 razz!
 ##Purpose
+to practice local git operations-branching!
 ##How to contirbute
 #Another Section!
 ##Copyright 
