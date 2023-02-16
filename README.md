@@ -5,3 +5,5 @@ razz!
 ##Purpose
 ##How to contirbute
 #Another Section!
+##Copyright 
+rights to razsa the king!@ 
